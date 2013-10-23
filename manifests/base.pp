@@ -2,32 +2,33 @@ exec { 'apt-get update':
     command => '/usr/bin/apt-get update',
 }
 
+include nginx
+include software
+include python
+
 class nginx {
-    include stdlib
-
-    group { 'puppet':
-        ensure => present,
-    }
-
     package { 'nginx':
         ensure => present,
-        require => Exec['apt-get update'],
+        before => File['/etc/nginx/sites-available/default']
     }
-
+    file { '/etc/nginx/sites-available/default':
+        ensure => file,
+        owner => 'root',
+        group => 'root',
+        mode => '640',
+        content => template('/vagrant/templates/default_site.erb'),
+    }
     service { 'nginx':
         ensure => running,
-        require => Package['nginx'],
+        enable => true,
+        hasstatus => true,
+        hasrestart => true,
+        subscribe => File['/etc/nginx/sites-available/default']
     }
 }
 
-class git {
-  package { 'git':
-    ensure => 'installed',
-  }
-}
-
-class vim {
-  package { 'vim':
+class software {
+  package { ['git', 'vim', ]:
     ensure => 'installed',
   }
 }
