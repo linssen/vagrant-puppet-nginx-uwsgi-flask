@@ -29,7 +29,7 @@ class nginx {
         owner => 'root',
         group => 'root',
         mode => '640',
-        content => template('/vagrant/templates/default_site.erb'),
+        content => template('/vagrant/vagrant/templates/default_site.erb'),
     }
     service { 'nginx':
         ensure => running,
@@ -87,7 +87,7 @@ class uwsgi {
         owner => 'root',
         group => 'root',
         mode => '0644',
-        source => '/vagrant/templates/uwsgi.conf',
+        source => '/vagrant/vagrant/files/etc/init/uwsgi.conf',
         require => Package['uwsgi'],
     }
     file { '/var/log/uwsgi.log':
