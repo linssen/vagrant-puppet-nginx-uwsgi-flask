@@ -1,0 +1,462 @@
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:24:03 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:24:03 2013] ***
+Wed Oct 23 08:24:03 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:24:03 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:24:03 2013 - nodename: precise64
+Wed Oct 23 08:24:03 2013 - machine: x86_64
+Wed Oct 23 08:24:03 2013 - clock source: unix
+Wed Oct 23 08:24:03 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:24:03 2013 - current working directory: /
+Wed Oct 23 08:24:03 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:24:03 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:24:03 2013 - setuid() to 33
+Wed Oct 23 08:24:03 2013 - your processes number limit is 3816
+Wed Oct 23 08:24:03 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:24:03 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:24:03 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:24:03 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:24:03 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:24:03 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:24:03 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:24:03 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
+Wed Oct 23 08:46:33 2013 - *** Starting uWSGI 1.9.18.2 (64bit) on [Wed Oct 23 08:46:33 2013] ***
+Wed Oct 23 08:46:33 2013 - compiled with version: 4.6.3 on 23 October 2013 08:23:34
+Wed Oct 23 08:46:33 2013 - os: Linux-3.2.0-29-virtual #46-Ubuntu SMP Fri Jul 27 17:23:50 UTC 2012
+Wed Oct 23 08:46:33 2013 - nodename: precise64
+Wed Oct 23 08:46:33 2013 - machine: x86_64
+Wed Oct 23 08:46:33 2013 - clock source: unix
+Wed Oct 23 08:46:33 2013 - detected number of CPU cores: 1
+Wed Oct 23 08:46:33 2013 - current working directory: /
+Wed Oct 23 08:46:33 2013 - detected binary path: /usr/local/bin/uwsgi
+Wed Oct 23 08:46:33 2013 - !!! no internal routing support, rebuild with pcre support !!!
+Wed Oct 23 08:46:33 2013 - setuid() to 33
+Wed Oct 23 08:46:33 2013 - your processes number limit is 3816
+Wed Oct 23 08:46:33 2013 - your memory page size is 4096 bytes
+Wed Oct 23 08:46:33 2013 - detected max file descriptor number: 1024
+Wed Oct 23 08:46:33 2013 - lock engine: pthread robust mutexes
+Wed Oct 23 08:46:33 2013 - thunder lock: disabled (you can enable it with --thunder-lock)
+Wed Oct 23 08:46:33 2013 - chmod() socket to 666 for lazy and brave users
+Wed Oct 23 08:46:33 2013 - uwsgi socket 0 bound to UNIX address /tmp/uwsgi.sock fd 3
+Wed Oct 23 08:46:33 2013 - Python version: 2.7.3 (default, Sep 26 2013, 20:13:52)  [GCC 4.6.3]
+Wed Oct 23 08:46:33 2013 - Set PythonHome to /vagrant/src
+ImportError: No module named site
