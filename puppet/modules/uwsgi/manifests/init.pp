@@ -12,7 +12,7 @@ class uwsgi {
         owner => 'root',
         group => 'root',
         mode => '0644',
-        source => 'puppet:///modules/uwsgi/uwsgi.conf',
+        content => template('uwsgi/uwsgi.conf.erb'),
         require => Package['uwsgi'],
     }
     file { '/var/log/uwsgi.log':

@@ -32,6 +32,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     # Host-only access private network
     config.vm.network :private_network, ip: settings[:ip]
 
+    # Shared folders
+    config.vm.synced_folder "src/", "/var/www/#{settings[:hostname]}.#{domain}/src"
+
     # Puppet config
     config.vm.provision :puppet do |puppet|
         puppet.manifests_path = "puppet/manifests"

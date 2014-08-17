@@ -14,6 +14,6 @@ exec /usr/local/bin/uwsgi \
 --master \
 --die-on-term \
 --logto /var/log/uwsgi.log \
---chdir /vagrant/src \
+--chdir /var/www/<%= @hostname %>.<%= domain %>/src \
 --module app \
 --callable app
