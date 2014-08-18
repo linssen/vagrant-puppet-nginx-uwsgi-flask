@@ -1,9 +1,6 @@
 A puppet setup for a Flask app
 ==============================================================================
 
-The Vagrant file currently specifies VMWare Fusion as the provider, but that's
-easily changed.
-
 ```bash
     # Bring the box up
     vagrant up
