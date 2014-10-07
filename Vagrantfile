@@ -18,11 +18,11 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.vm.host_name = "#{settings[:hostname]}.#{domain}"
 
     # Virtualbox provider box url
-    config.vm.provider :virtualbox do |vb|
+    config.vm.provider "virtualbox" do |vb|
         config.vm.box_url = "http://files.vagrantup.com/#{settings[:box]}.box"
     end
     # VMWare provider box url
-    config.vm.provider :vmware do |vb|
+    config.vm.provider "vmware" do |vb|
         config.vm.box_url = "http://files.vagrantup.com/#{settings[:box]}_vmware.box"
     end
 
