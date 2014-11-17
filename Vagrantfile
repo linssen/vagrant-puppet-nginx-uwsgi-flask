@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 domain = "example.co.uk"
 settings = {
   :hostname => "myapp",
-  :box => "precise64",
+  :box => "hashicorp/precise64",
   :ip => "192.168.33.10",
 }
 
@@ -17,14 +17,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     # Hostname
     config.vm.host_name = "#{settings[:hostname]}.#{domain}"
 
-    # Virtualbox provider box url
-    config.vm.provider "virtualbox" do |vb|
-        config.vm.box_url = "http://files.vagrantup.com/#{settings[:box]}.box"
-    end
-    # VMWare provider box url
-    config.vm.provider "vmware" do |vb|
-        config.vm.box_url = "http://files.vagrantup.com/#{settings[:box]}_vmware.box"
-    end
+    # Provider box url
+    config.vm.box = "#{settings[:box]}"
 
     # Port forwarding
     config.vm.network :forwarded_port, guest: 80, host: 8080
