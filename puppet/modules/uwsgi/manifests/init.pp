@@ -1,5 +1,7 @@
 class uwsgi {
 
+    $mount_point = "/var/www/${hostname}.${domain}/src"
+
     $params = {
         "uid" => "www-data",
         "gid" => "www-data",
@@ -10,7 +12,7 @@ class uwsgi {
         "master" => "",
         "die-on-term" => "",
         "logto" => "/var/log/uwsgi.log",
-        "chdir" => "/var/www/${hostname}.${domain}/src",
+        "chdir" => $mount_point,
         "module" => "app",
         "callable" => "app",
     }
