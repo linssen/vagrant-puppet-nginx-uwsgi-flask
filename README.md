@@ -1,14 +1,18 @@
 A puppet setup for a Flask app
 ==============================================================================
+    
+    ```bash
+        # Bring the box up
+        vagrant up
+        # Provision with
+        vagrant provision
+    ```
 
-```bash
-    # Bring the box up
-    vagrant up
-    # Provision with
-    vagrant provision
-```
+    Site should then be available over port 8080 at `http://localhost:8080/`.
 
-Site should then be available over port 8080 at `http://localhost:8080/`.
+##Features:
+-3 apps and a set up tool...
+    
 
 ## TODO:
 
