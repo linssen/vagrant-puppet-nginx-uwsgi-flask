@@ -16,11 +16,12 @@ A puppet setup for a Flask app
 
 ## TODO:
 
-- [x] Fix dependencies on current infrastructure like Vagrant #4
-- [ ] Move Python deps into a virtualenv (_maybe_) #1
-- [ ] Varnish #3
-- [ ] Postgres #2
-- [ ] SSL
-- [ ] UNIX Sockets 
+- [x] Fix dependencies on current infrastructure like Vagrant #4.
+- [ ] Move Python deps into a virtualenv (_maybe_) #1.
+- [ ] Varnish #3.
+- [ ] Postgres #2.
+- [ ] SSL.
+- [ ] UNIX Sockets  https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04#configuring-nginx-to-proxy-requests.
 - [ ] Load balancer config??
-- [ ] admin gui and market place.
+- [ ] admin gui.
+- [ ] market place for (code,config scripts, bootstrap themes, server space)??
