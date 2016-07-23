@@ -16,3 +16,6 @@ Site should then be available over port 8080 at `http://localhost:8080/`.
 - [ ] Move Python deps into a virtualenv (_maybe_) #1
 - [ ] Varnish #3
 - [ ] Postgres #2
+- [ ] SSL
+- [ ] UNIX Sockets 
+- [ ] Load balancer config??
