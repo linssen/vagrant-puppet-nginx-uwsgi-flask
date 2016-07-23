@@ -11,7 +11,7 @@ A puppet setup for a Flask app
     Site should then be available over port 8080 at `http://localhost:8080/`.
 
 ##Features:
--3 apps and a set up tool...
+*3 apps and a set up tool...
     
 
 ## TODO:
