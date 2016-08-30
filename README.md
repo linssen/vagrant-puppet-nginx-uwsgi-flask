@@ -11,8 +11,8 @@ A puppet setup for a Flask app
     Site should then be available over port 8080 at `http://localhost:8080/`.
 
 ##Features:
-3 apps and a set up tool...
-    
+3 apps and a setup tool...
+
 
 ## TODO:
 
@@ -25,3 +25,7 @@ A puppet setup for a Flask app
 - [ ] Load balancer config??
 - [ ] Varnish based admin gui #3.
 
+## usefull links:
+    looking for docker flavor? 
+    [apache-flask](https://github.com/muneeb-ali/apache-flask)
+    uses apache and docker to acheave what we are doing here... This method provides more secerity and needs more system resources whill a bit less migration options... 
