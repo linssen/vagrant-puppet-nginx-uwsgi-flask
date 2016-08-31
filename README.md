@@ -19,7 +19,7 @@ A puppet setup for a Flask app
 - [x] Fix dependencies on current infrastructure like Vagrant #4.
 - [ ] Move Python deps into a [virtualenv](http://www.markbetz.net/2014/01/17/python-if-you-have-docker-do-you-need-virtualenv/#div-comment-28954) and config puppet for both vagrant and [(docker so we can benifit from unix scokets)](http://unix.stackexchange.com/questions/279543/unix-domain-socket-with-vm#answer-279571) 
 
-- [ ] databace install selector (Postgres work horse dev time longer) or (tinyDB lightweight barebone quary, no filter ect..)
+- [ ] database install selector (Postgres) or (MYQSL) or (tinyDB)
 - [ ] SSL encryption and admin gui to set keys and certs
 - [ ] [UNIX Sockets]( https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04#configuring-nginx-to-proxy-requests.)
 - [ ] Load balancer config??
